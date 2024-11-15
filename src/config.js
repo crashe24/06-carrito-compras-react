@@ -1,0 +1,1 @@
+export const SCOPE_DEVELOPMENT = process.env.NODE_ENV !== 'production'
